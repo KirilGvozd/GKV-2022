@@ -1,0 +1,28 @@
+﻿  Error.cpp
+  FST.cpp
+  Generation.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Generation.cpp(195,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Greibach.cpp
+  In.cpp
+  IT.cpp
+  Lex.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(284,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(415,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(467,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(625,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(672,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\Lex.cpp(683,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Log.cpp
+  LT.cpp
+  GKV-2022.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\GKV-2022.cpp(97,22): warning C4101: 'e': unreferenced local variable
+  MFST.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\MFST.cpp(267,68): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Parm.cpp
+  PN.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\PN.cpp(67,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Sem.cpp
+  Generating Code...
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\PN.cpp(18): warning C4715: 'Polish::getPriority': not all control paths return a value
+  LINK : C:\Users\kiril\OneDrive\Desktop\Course_Project1\x64\Debug\GKV-2022.exe not found or not built by the last incremental link; performing full link
+  GKV-2022.vcxproj -> C:\Users\kiril\OneDrive\Desktop\Course_Project1\x64\Debug\GKV-2022.exe

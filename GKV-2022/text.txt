@@ -1,0 +1,38 @@
+integer function max(integer x, integer y){
+integer res;
+	if: x>y	
+	{res = x;}
+	^{ res = y;}
+	return res;
+}
+integer function sum(integer x, integer y){
+	x = x + y;
+	return x;
+}
+main
+{
+	output "Sum:";
+	integer test1 = sum(2, 1);
+	output test1;
+	output "Max:";
+	integer test2 = max(2, 5);
+	output test2;
+	stroka hi = "Hello World!";
+	stroka h1 = "Hello";
+	integer a = comp(hi, hi);
+	integer a1 = comp(hi, h1);
+	output h1;
+	output hi;
+	output a;
+	output a1;
+	integer test3 = 7 % 3;
+	integer test4 = 7 - 3;
+	integer test5 = 7 / 3;
+	integer test6 = 7 * 3;
+	output test3;
+	output test4;
+	output test5;
+	output test6;
+	integer hex = 16xFF;
+	output hex;
+}

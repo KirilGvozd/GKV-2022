@@ -1,0 +1,9 @@
+﻿  Error.cpp
+  FST.cpp
+  GKV-2022.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\GKV-2022\GKV-2022.cpp(91,22): warning C4101: 'e': unreferenced local variable
+  Generation.cpp
+  Greibach.cpp
+  In.cpp
+  Generating Code...
+  GKV-2022.vcxproj -> C:\Users\kiril\OneDrive\Desktop\Course_Project1\Debug\GKV-2022.exe

@@ -1,0 +1,3 @@
+﻿  Lib.cpp
+C:\Users\kiril\OneDrive\Desktop\Course_Project1\LIB\Lib.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+  LIB.vcxproj -> C:\Users\kiril\OneDrive\Desktop\Course_Project1\Debug\LIB.lib
